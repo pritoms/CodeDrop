@@ -1,2 +1,1 @@
-from CodeDrop.csi_dropbox import TransferData, drop
-
+from CodeDrop.codedrop import Transfer, drop
