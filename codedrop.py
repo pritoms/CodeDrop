@@ -13,7 +13,7 @@ class Transfer:
 
 def drop(file_source, file_name):
 
-    access_token = "eQidlVzHaN0AAAAAAAAH4kZdimk5SlKgbZhoZ5f44a28iUULkJZu-U9DyxZCxV4X"
+    access_token = ""
     transfer = Transfer(access_token)
 
     file_from = os.path.basename(file_source)
