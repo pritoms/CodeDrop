@@ -9,12 +9,10 @@ setup(
   author = 'Pritom Sarker',
   author_email = 'pritoms@gmail.com',
   url = 'https://github.com/pritoms/CodeDrop',
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',
+  download_url = 'https://github.com/pritoms/CodeDrop/archive/v0.1.tar.gz',
   keywords = ['dropbox api', 'code upload', 'dropbox code upload', 'python script dropbox', 'python code upload dropbox'],
   install_requires=[
-          'validators',
-          'beautifulsoup4',
-      ],
+          'dropbox',],
   classifiers=[
     'Development Status :: 3 - Alpha',
     'Intended Audience :: Developers',
