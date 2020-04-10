@@ -22,5 +22,5 @@ def drop(file_source, file_name):
     transfer.upload_file(file_from, file_to)
     print("\nCode Uploaded!")
 
-if __name__ == "__main__":
-    drop()
+# if __name__ == "__main__":
+#     drop()
