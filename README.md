@@ -2,6 +2,7 @@ This script uses Dropbox API to upload your python code to your Dropbox app fold
 
 How to use:
 
+0. Install dropbox using pip install dropbox,
 1. Create a new app from the dropbox developer section and get the access token,
 2. Insert your dropbox access token between "" on line 16 of codedrop.py,
 3. Import codedrop in your python script and use drop() function to upload codes to your dropbox app folder.
